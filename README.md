@@ -1,7 +1,3 @@
-Certainly! Here's a more polished and professional rewrite:  
-
----
-
 Hello,  
 
 I’m Himanshu Sharma, a seasoned mobile app developer with over 13 years of experience designing and building cutting-edge applications for both Android and iOS platforms. My journey in software development has been a dynamic blend of creativity, technical expertise, and a deep passion for crafting impactful user experiences.  
